@@ -1,0 +1,7 @@
+
+module MyModule {
+    interface MyInterface {
+        void myOperation(in long a, out long b);
+	};
+};
+
